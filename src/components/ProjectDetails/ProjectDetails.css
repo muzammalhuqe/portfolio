@@ -1,0 +1,22 @@
+.detail-body{
+    height: 100%;
+}
+
+.detail-card{
+    border-radius: 10px;
+    /* max-width: 800px; */
+    
+    background-color: #fffef0;
+}
+.detail-card img{
+    border-radius: 10px;
+}
+
+
+
+@media screen and (max-width: 600px) {
+    .detail-body{
+        height: 100%;
+    }
+  }
+

@@ -1,0 +1,15 @@
+
+.blogs-section{
+    background:linear-gradient(rgba(27, 0, 58, 0.816), rgba(0, 12, 79, 0.8)), url('https://i.ibb.co/qnF56yK/React-js-javascript-modern-programming-language-for-speed-of-website-framework-technology-line-of-co.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+@media screen and (max-width: 600px) {
+    .blogs-section{
+        height: 100%;
+    }
+  }

@@ -1,0 +1,11 @@
+ .about-text {
+   text-align: start;
+  color: rgb(240, 219, 219);
+ 
+}
+
+@media screen and (max-width: 600px) {
+  .about-section{
+      height: 100%;
+  }
+} 
