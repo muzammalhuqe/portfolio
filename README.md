@@ -4,6 +4,4 @@ This project created by react [Visit My Portfolio](https://portfolio-ldmrlzqd6-m
 
 # portfolio
 
-<a href="https://ibb.co/nn1XtRB"><img src="https://i.ibb.co/jWwCsHz/muzammel-portfolio.png" alt="muzammel-portfolio" border="0"></a>
-
 <a href="https://portfolio-ldmrlzqd6-md-muzammal-huqes-projects.vercel.app" target="_blank"><img src="https://i.ibb.co/jWwCsHz/muzammel-portfolio.png" width="100%" height="500px" alt="Mobile bazar"/></a>
